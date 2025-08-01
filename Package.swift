@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "CombineFirebase",
-    platforms: [.iOS(.v13), .macOS(.v10_15), .tvOS(.v13)],
+    platforms: [.iOS(.v15), .macOS(.v10_15), .tvOS(.v15)],
     products: [
         .library(
             name: "CombineFirebase",
